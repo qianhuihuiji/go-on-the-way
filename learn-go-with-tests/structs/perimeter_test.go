@@ -1,4 +1,4 @@
-package learn_go_with_tests
+package structs
 
 import (
 	"math"

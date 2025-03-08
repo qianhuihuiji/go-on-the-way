@@ -1,4 +1,4 @@
-package iteration
+package _for
 
 func Repeat(s string) string {
 	var repeated string

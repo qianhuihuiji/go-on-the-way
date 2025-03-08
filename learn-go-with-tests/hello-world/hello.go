@@ -1,4 +1,4 @@
-package hello
+package hello_world
 
 import "fmt"
 
@@ -20,6 +20,6 @@ func Hello(name string, language string) string {
 
 func main() {
 
-	fmt.Println(Hello("hello", ""))
+	fmt.Println(Hello("hello-world", ""))
 
 }
